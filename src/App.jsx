@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <header id='#header'>
-        <img className='logo' src="./public/Logo.svg" alt="Logo" />
+        <img className='logo' src="./src/assets/logo.svg" alt="Logo" />
           <nav>
             <a href="#">Home</a>
             <a href="#">Features</a>
@@ -24,7 +24,7 @@ function App() {
         </div>
 
         <div className="right">
-          <img className='right' src="./public/Illustration.svg" alt="rasm" />
+          <img className='right' src="./src/assets/Illustration.svg" alt="rasm" />
         </div>
 
       </div>
@@ -33,23 +33,23 @@ function App() {
         <div className="iconlar">
           <h1>Our Clients</h1>
           <p>We have been working with some Fortune 500+ clients</p>
-          <img className='clients' src="./public/clients.svg" alt="icon" />
+          <img className='clients' src="./src/assets/clients.svg" alt="icon" />
         </div>
         <div className="h2"><h2>Manage your entire community in a single system</h2></div>
         <div className="company">
           
           <div className="card">
-            <img className='icon' src="./public/icon.svg" alt="" />
+            <img className='icon' src="./src/assets/icon.svg" alt="" />
             <h1>Membership Organisations</h1>
             <p>Our membership management software provides full automation of membership renewals and payments</p>
           </div>
           <div className="card">
-            <img className='icon' src="./public/icon@2x.svg" alt="" />
+            <img className='icon' src="./src/assets/icon@2x.svg" alt="" />
             <h1>National Associations</h1>
             <p>Our membership management software provides full automation of membership renewals and payments</p>
           </div>
           <div className="card">
-            <img className='icon' src="./public/icon (1).svg" alt="" />
+            <img className='icon' src="./src/assets/icon (1).svg" alt="" />
             <h1>Clubs And Groups</h1>
             <p>Our membership management software provides full automation of membership renewals and payments</p>
           </div>
@@ -59,7 +59,7 @@ function App() {
 
       <footer>
         <div className="left2">
-          <img className='rafiki' src="./public/rafiki.svg" alt="" />
+          <img className='rafiki' src="./src/assets/rafiki.svg" alt="" />
         </div>
 
         <div className="right2">
